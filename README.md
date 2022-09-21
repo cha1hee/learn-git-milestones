@@ -280,7 +280,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 👀
-1b | Link to `commit #1 from Github.com` |
+1b | Link to `commit #1 from Github.com` |[link](https://github.com/cha1hee/learn-git-milestones#completions)
 1c | Link to markdown tables docs |
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
