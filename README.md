@@ -286,7 +286,7 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji |🫡
 2b | Link to `commit #2 from Github Desktop` |[View Commit #2](https://github.com/omundy/learn-git-milestones/commit/42e934cfdc107d10d3e8296de57ebd56770ecf50)
 2c | Full path to your working directory | /Users/paulichali/Desktop/Studies/Fall 2022/DIG245/Sites/critical-web-design/learn-git-milestones
-2d | Link to `commit #3 from CLI` |
+2d | Link to `commit #3 from CLI` |[View Commit #3] (https://github.com/omundy/learn-git-milestones/commit/cb5e26646f15cd26be0b42f59a40ed4dd55a3883)
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
