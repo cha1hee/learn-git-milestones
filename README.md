@@ -289,8 +289,8 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` |[View Commit #3] (https://github.com/omundy/learn-git-milestones/commit/cb5e26646f15cd26be0b42f59a40ed4dd55a3883)
 2e | 3rd Favorite emoji |🧐
 2f | Link to `commit #4 from Atom` |[View Commit #4](https://github.com/omundy/learn-git-milestones/commit/4733ab1bde6b13dd392d2d4889542f8908b9296a)
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+3a | Link to `my-awesome-project` github.com repo page |[Repo Page](https://github.com/cha1hee/my-awesome-project)
+4a | Link to `my-awesome-project` github.io "project site" |[Project Website](https://cha1hee.github.io/my-awesome-project/)
 
 
 
